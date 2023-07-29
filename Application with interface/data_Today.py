@@ -5,7 +5,7 @@ import json
 conn = http.client.HTTPSConnection("opendata.aemet.es")
 
 # Escribir aquí tu clave API de AEMET personal
-api_key = "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ5b25pODA2MEBnbWFpbC5jb20iLCJqdGkiOiI0ZGFiM2I5OC03OTNjLTQyZDYtYTRkYi0zM2E2Y2M5ZDk2MTUiLCJpc3MiOiJBRU1FVCIsImlhdCI6MTY4OTcxODk0MiwidXNlcklkIjoiNGRhYjNiOTgtNzkzYy00MmQ2LWE0ZGItMzNhNmNjOWQ5NjE1Iiwicm9sZSI6IiJ9.7YKE8z7ceq4f36UuvsSP0Xr-VITZVDXGkQE1EitPofg"
+api_key = ""
 headers = {
     'accept': "application/json",
     'api_key': api_key
