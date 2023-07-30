@@ -1,4 +1,4 @@
-Aplicación que utiliza la arquitectura LSTM para identificar patrones temporales en los datos meteorológicos diarios historicos obtenidos de AEMET. 
+Aplicación que utiliza la arquitectura LSTM para identificar patrones temporales en los datos meteorológicos diarios historicos obtenidos de la API de AEMET, que es una API RESTful.
 A este modelo, una vez entrenado, se le pasarán los datos meteorológicos del día actual y con ellos mostrará una predicción de esos mismos datos para el día siguiente en una interfaz gráfica simple de python.
 
 MANUAL DE EJECUCIÓN
