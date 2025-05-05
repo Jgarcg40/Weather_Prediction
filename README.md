@@ -1,4 +1,4 @@
-# Predicción Meteorológica con LSTM
+# Predicción Meteorológica con LSTM (Realizado en 2023)
 
 Aplicación que utiliza la arquitectura LSTM (Long Short-Term Memory) para identificar patrones temporales en datos meteorológicos históricos obtenidos a través de la API de AEMET (Agencia Estatal de Meteorología). El modelo, una vez entrenado, recibe los datos meteorológicos del día actual y genera una predicción para el día siguiente, mostrándola en una interfaz gráfica simple.
 
